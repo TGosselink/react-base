@@ -1,2 +1,2 @@
 # idealreactseed
-The ideal react seed
+The ideal react seed by TGO
